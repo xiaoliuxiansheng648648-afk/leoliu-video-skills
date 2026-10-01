@@ -28,13 +28,13 @@ Skill 本身免费。花钱的是运行它的 AI，以及它要调用的接口�
 | 文案 | [humanizer](#humanizer) | 5.3 万星 | MIT | 去 AI 味；实测标出 8 处、改 6 处 |
 | 文案 | [copywriting](#copywriting) | 仓库 5.2 万星 | MIT | 写**网页**文案的，写短视频钩子用 social |
 | 文案 | [social](#social) | 仓库 5.2 万星 | MIT | 有短视频钩子公式 |
-| 配音字幕 | [Whisper](#whisper) | 11 万星 | MIT | 工具；把配音逐字对到时间轴 |
+| 配音字幕 | [Whisper](#whisper) | 10.9 万星 | MIT | 工具；把配音逐字对到时间轴 |
 | 配音字幕 | [pyVideoTrans](#pyvideotrans) | 1.9 万星 | GPL-3.0 | 一站式，每步可停下来改；商用先看条款 |
 | 画面 | [HyperFrames](#hyperframes) | 5.5 万星 | Apache-2.0 | 网页代码写画面，可商用 |
 | 画面 | [Remotion](#remotion) | 6.1 万星 | Remotion License | 3 人以上的公司要买授权 |
 | 封面 | [cover-copy-check](#cover-copy-check) | 本仓库 | MIT | 查封面字数和是否重复标题 |
-| 全流程 | [MoneyPrinterTurbo](#moneyprinterturbo) | 12.8 万星 | MIT | 先别急着装：要先填各家 API Key |
-| 全流程 | [OpenMontage](#openmontage) | 6.2 万星 | AGPL-3.0 | 先别急着装：做对外服务先看条款 |
+| 全流程 | [MoneyPrinterTurbo](#moneyprinterturbo) | 12.7 万星 | MIT | 先别急着装：用云端模型、在线素材前要先填 API Key |
+| 全流程 | [OpenMontage](#openmontage) | 6.2 万星 | AGPL-3.0 | 先别急着装：AGPL，做对外服务先看条款 |
 | 装机必备 | [skill-creator](#skill-creator) | 仓库 17.9 万星 | Apache-2.0 | 官方；把反复做的事写成 Skill 并自测 |
 | 装机必备 | [self-improving-agent](#self-improving-agent) | ClawHub 48 万次 | MIT-0 | 同名 5 个作者；热门版只适配 OpenClaw |
 | 装机必备 | [skill-vetter](#skill-vetter) | ClawHub 27.5 万次 | MIT-0 | 装前安全检查；同名一长串，认准作者 |
@@ -107,7 +107,7 @@ Skill 本身免费。花钱的是运行它的 AI，以及它要调用的接口�
 ### OpenMontage
 
 - 仓库：[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)，按 README 安装
-- 结论：先别急着装。12 条生产线；AGPL-3.0，拿去做对外服务前先看清条款。
+- 结论：先别急着装。十几条生产线（仓库简介写 12 条，README 正文写 10+）；AGPL-3.0，拿去做对外服务前先看清条款。
 
 ### skill-creator
 
