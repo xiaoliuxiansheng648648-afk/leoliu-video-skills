@@ -31,7 +31,7 @@ Skill 本身免费。花钱的是运行它的 AI，以及它要调用的接口�
 | 配音字幕 | [Whisper](#whisper) | 10.9 万星 | MIT | 工具；把配音逐字对到时间轴 |
 | 配音字幕 | [pyVideoTrans](#pyvideotrans) | 1.9 万星 | GPL-3.0 | 一站式，每步可停下来改；商用先看条款 |
 | 画面 | [HyperFrames](#hyperframes) | 5.5 万星 | Apache-2.0 | 网页代码写画面，可商用 |
-| 画面 | [Remotion](#remotion) | 6.1 万星 | Remotion License | 3 人以上的公司要买授权 |
+| 画面 | [Remotion](#remotion) | 6.1 万星 | Remotion License | 超过 3 人的公司要买授权 |
 | 封面 | [cover-copy-check](#cover-copy-check) | 本仓库 | MIT | 查封面字数和是否重复标题 |
 | 全流程 | [MoneyPrinterTurbo](#moneyprinterturbo) | 12.7 万星 | MIT | 先别急着装：用云端模型、在线素材前要先填 API Key |
 | 全流程 | [OpenMontage](#openmontage) | 6.2 万星 | AGPL-3.0 | 先别急着装：AGPL，做对外服务先看条款 |
